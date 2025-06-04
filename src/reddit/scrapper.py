@@ -1,11 +1,22 @@
 import os
 import sys
 import json
-from yars.yars import YARS
-from yars.utils import display_results, download_image
+from pathlib import Path
+from .yars.yars import YARS
+from .yars.utils import display_results, download_image
+
+from ..logger import get_logger
+logger = get_logger("VidBot")
 
 miner = YARS()
-filename = "../../data/subbreddit.json"
+
+def get_data_file_path():
+    current_dir = Path(__file__).parent
+    project_root = current_dir.parent.parent
+
+    return project_root / "data" / "subreddit.json"
+
+filename = get_data_file_path()
 
 def scrape_subreddit_data(subreddit_name, limit=5, filename=filename):
     try:
@@ -22,7 +33,8 @@ def scrape_subreddit_data(subreddit_name, limit=5, filename=filename):
         for i, post in enumerate(subreddit_posts, 1):
             permalink = post["permalink"]
             post_details = miner.scrape_post_details(permalink)
-            print(f"Processing post {i}")
+
+            logger.info(f"Processing Post {i}")
 
             if post_details:
                 post_data = {
@@ -41,19 +53,15 @@ def scrape_subreddit_data(subreddit_name, limit=5, filename=filename):
                 existing_data.append(post_data)
                 save_to_json(existing_data, filename)
             else:
-                print(f"Failed to scrape details for post: {post['title']}")
+                logger.error(f"Failed To Scrape Details For : {post['title']}")
 
     except Exception as e:
-        print(f"Error occurred while scraping subreddit: {e}")
+        logger.error(f"Error Occured While Scrapping The Subreddit : {e}")
 
 def save_to_json(data, filename=filename):
     try:
         with open(filename, "w") as json_file:
             json.dump(data, json_file, indent=4)
-        print(f"Data successfully saved to {filename}")
+        logger.success(f"Saved Subreddit Data As {filename}")
     except Exception as e:
-        print(f"Error saving data to JSON file: {e}")
-
-if __name__ == "__main__":
-    subreddit_name = "askreddit"
-    scrape_subreddit_data(subreddit_name, limit=1)
+        logger.error(f"Error Saving Subreddit Data As {filename} : {e}")
