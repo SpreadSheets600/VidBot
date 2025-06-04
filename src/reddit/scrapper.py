@@ -5,7 +5,7 @@ from yars.yars import YARS
 from yars.utils import display_results, download_image
 
 miner = YARS()
-filename = "subbreddit.json"
+filename = "../../data/subbreddit.json"
 
 def scrape_subreddit_data(subreddit_name, limit=5, filename=filename):
     try:

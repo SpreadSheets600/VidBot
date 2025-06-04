@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Load Reddit JSON
-with open("../reddit/subbreddit.json") as raw_file:
+with open("../../data/subbreddit.json") as raw_file:
     raw_data = json.load(raw_file)
 
 post_title = raw_data[0]["title"]
@@ -35,7 +35,7 @@ response = client.models.generate_content(
     model="gemini-2.0-flash",
     config=types.GenerateContentConfig(
         system_instruction=(
-            "JUST RETURN THE VOICE OVER"
+            "JUST RETURN THE VOICE OVER NO EXTRA STUFF NO DIRECTIONS ANYTHING SIMPLE STORY TELLING"
             "You are a creative YouTube Shorts scriptwriter. "
             "Based on the given Reddit post and its funniest or most absurd top comments, "
             "write a single 30–60 second funny, engaging story based script suitable for a vertical video. "
@@ -50,5 +50,5 @@ response = client.models.generate_content(
     ],
 )
 
-with open("script.txt", "w+") as script_file:
+with open("../../data/script.txt", "w+") as script_file:
     script_file.write(response.text)
