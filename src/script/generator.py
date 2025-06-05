@@ -7,15 +7,18 @@ from google.genai import types
 from dotenv import load_dotenv
 
 from ..logger import get_logger
+
 logger = get_logger("VidBot")
 
 load_dotenv()
+
 
 def get_data_file_path(filename):
     current_dir = Path(__file__).parent
     project_root = current_dir.parent.parent
 
     return project_root / "data" / filename
+
 
 def generate_script():
     # Load Reddit JSON

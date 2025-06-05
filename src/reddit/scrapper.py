@@ -6,9 +6,11 @@ from .yars.yars import YARS
 from .yars.utils import display_results, download_image
 
 from ..logger import get_logger
+
 logger = get_logger("VidBot")
 
 miner = YARS()
+
 
 def get_data_file_path():
     current_dir = Path(__file__).parent
@@ -16,7 +18,18 @@ def get_data_file_path():
 
     return project_root / "data" / "subreddit.json"
 
+
 filename = get_data_file_path()
+
+
+def save_to_json(data, filename=filename):
+    try:
+        with open(filename, "w") as json_file:
+            json.dump(data, json_file, indent=4)
+        logger.success(f"Saved Subreddit Data As {filename}")
+    except Exception as e:
+        logger.error(f"Error Saving Subreddit Data As {filename} : {e}")
+
 
 def scrape_subreddit_data(subreddit_name, limit=5, filename=filename):
     try:
@@ -57,11 +70,3 @@ def scrape_subreddit_data(subreddit_name, limit=5, filename=filename):
 
     except Exception as e:
         logger.error(f"Error Occured While Scrapping The Subreddit : {e}")
-
-def save_to_json(data, filename=filename):
-    try:
-        with open(filename, "w") as json_file:
-            json.dump(data, json_file, indent=4)
-        logger.success(f"Saved Subreddit Data As {filename}")
-    except Exception as e:
-        logger.error(f"Error Saving Subreddit Data As {filename} : {e}")
