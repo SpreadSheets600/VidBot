@@ -15,7 +15,7 @@ logger.separator()
 logger.info("Scrapping Off Subreddit To Get Data")
 
 try:
-    scrape_subreddit_data(subreddit_name="askreddit", limit=1)
+    scrape_subreddit_data(subreddit_name="todayilearned", limit=1)
     logger.success("Done! Moving To Next Setp")
 
 except Exception as e:

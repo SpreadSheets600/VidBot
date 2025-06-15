@@ -29,15 +29,26 @@ def generate_voiceover():
         # Interact with the Gradio Client API to generate voiceover and subtitles
         try:
             client = Client("walidadebayo/text-to-speech-clone")
+            # result = client.predict(
+            #     text=script_data,
+            #     voice="en-US-JennyNeural - en-US (Female)",
+            #     rate=0,
+            #     pitch=0,
+            #     generate_subtitles=True,
+            #     uploaded_file=None,
+            #     api_name="/predict",
+            # )
             result = client.predict(
                 text=script_data,
-                voice="en-US-JennyNeural - en-US (Female)",
-                rate=0,
-                pitch=0,
                 generate_subtitles=True,
-                uploaded_file=None,
-                api_name="/predict",
-            )
+                speaker1_voice="en-CA-ClaraNeural - en-CA (Female)",
+                speaker1_rate=4,
+                speaker1_pitch=-10,
+                speaker2_voice="en-AU-WilliamNeural - en-AU (Male)",
+                speaker2_rate=5,
+                speaker2_pitch=0,
+                api_name="/predict_multi"
+        )
 
             # Extract Audio And Subtitles File Data
             audio_file = result[0]
@@ -60,11 +71,17 @@ def generate_voiceover():
                 logger.error(f"Subtitle File {subtitle_file} Does Not Exist.")
                 return
 
+            # Remove destination files if they already exist, as it was returning error if file already existed
+            if os.path.exists(audio_dest):
+                os.remove(audio_dest)
+            if os.path.exists(subtitle_dest):
+                os.remove(subtitle_dest)
+
             os.rename(audio_file, audio_dest)
             os.rename(subtitle_file, subtitle_dest)
 
         except Exception as e:
-            logger.exception(f"Error Moving Files To The Current Location : {e}")
+            logger.error(f"Error Moving Files To The Current Location : {e}", exc_info=True)
 
     except Exception as e:
-        logger.exception(f"Unexpected Error In Generating Voiceover : {e}")
+        logger.error(f"Unexpected Error In Generating Voiceover : {e}", exc_info=True)
