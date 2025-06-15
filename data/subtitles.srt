@@ -1,108 +1,644 @@
 1
-00:00:00,100 --> 00:00:00,687
-Keys
+00:00:00,098 --> 00:00:01,215
+[Speaker 1] My dad had this rule
 
 2
-00:00:01,550 --> 00:00:02,100
-Keys
+00:00:00,098 --> 00:00:01,215
+[Speaker 1] My dad had this rule
 
 3
-00:00:02,962 --> 00:00:04,000
-Where are the KEYS
+00:00:01,215 --> 00:00:02,562
+[Speaker 1] growing up If you open
 
 4
-00:00:04,862 --> 00:00:07,100
-Okay picture this little Timmy
+00:00:00,098 --> 00:00:01,215
+[Speaker 1] My dad had this rule
 
 5
-00:00:07,312 --> 00:00:08,737
-always losing his keys
+00:00:01,215 --> 00:00:02,562
+[Speaker 1] growing up If you open
 
 6
-00:00:09,600 --> 00:00:11,287
-Dad's about to explode veins
+00:00:02,562 --> 00:00:03,138
+[Speaker 1] it close it
 
 7
-00:00:11,300 --> 00:00:12,750
-popping face redder than a
+00:00:00,098 --> 00:00:01,215
+[Speaker 1] My dad had this rule
 
 8
-00:00:12,762 --> 00:00:13,525
-firetruck
+00:00:01,215 --> 00:00:02,562
+[Speaker 1] growing up If you open
 
 9
-00:00:14,387 --> 00:00:14,900
-TIMMY
+00:00:02,562 --> 00:00:03,138
+[Speaker 1] it close it
 
 10
-00:00:15,762 --> 00:00:16,600
-IF I HAVE TO WAIT
+00:00:04,062 --> 00:00:04,987
+[Speaker 1] Annoying right
 
 11
-00:00:16,612 --> 00:00:17,600
-ONE MORE SECOND
+00:00:00,098 --> 00:00:01,215
+[Speaker 1] My dad had this rule
 
 12
-00:00:18,462 --> 00:00:20,237
-Cut to Adult Timmy now
+00:00:01,215 --> 00:00:02,562
+[Speaker 1] growing up If you open
 
 13
-00:00:20,250 --> 00:00:21,275
-a zen master of key
+00:00:02,562 --> 00:00:03,138
+[Speaker 1] it close it
 
 14
-00:00:21,287 --> 00:00:21,950
-placement
+00:00:04,062 --> 00:00:04,987
+[Speaker 1] Annoying right
 
 15
-00:00:22,812 --> 00:00:23,725
-Hook by the door
+00:00:05,961 --> 00:00:07,079
+[Speaker 1] Like I’m not a barn
 
 16
-00:00:24,587 --> 00:00:25,437
-Mandatory
+00:00:00,098 --> 00:00:01,215
+[Speaker 1] My dad had this rule
 
 17
-00:00:26,300 --> 00:00:27,500
-Guests lose keys
+00:00:01,215 --> 00:00:02,562
+[Speaker 1] growing up If you open
 
 18
-00:00:28,362 --> 00:00:29,362
-Instant side-eye
+00:00:02,562 --> 00:00:03,138
+[Speaker 1] it close it
 
 19
-00:00:30,225 --> 00:00:31,687
-Lost your keys huh
+00:00:04,062 --> 00:00:04,987
+[Speaker 1] Annoying right
 
 20
-00:00:32,550 --> 00:00:33,425
-You know what my dad
+00:00:05,961 --> 00:00:07,079
+[Speaker 1] Like I’m not a barn
 
 21
-00:00:33,437 --> 00:00:34,200
-used to say
+00:00:07,079 --> 00:00:07,391
+[Speaker 1] door
 
 22
-00:00:35,062 --> 00:00:36,762
-Dramatic flashback music
+00:00:08,449 --> 00:00:09,473
+[Speaker 2] Oh I had that rule
 
 23
-00:00:37,625 --> 00:00:38,375
-BALLISTIC
+00:00:08,449 --> 00:00:09,473
+[Speaker 2] Oh I had that rule
 
 24
-00:00:39,237 --> 00:00:40,487
-Now I'm my dad but
+00:00:09,556 --> 00:00:09,818
+[Speaker 2] too
 
 25
-00:00:40,500 --> 00:00:41,600
-with better snacks
+00:00:08,449 --> 00:00:09,473
+[Speaker 2] Oh I had that rule
 
 26
-00:00:42,462 --> 00:00:44,012
-Keys on the hook people
+00:00:09,556 --> 00:00:09,818
+[Speaker 2] too
 
 27
-00:00:44,875 --> 00:00:45,800
-This is the way
+00:00:10,780 --> 00:00:11,613
+[Speaker 2] And Put it back where
+
+28
+00:00:08,449 --> 00:00:09,473
+[Speaker 2] Oh I had that rule
+
+29
+00:00:09,556 --> 00:00:09,818
+[Speaker 2] too
+
+30
+00:00:10,780 --> 00:00:11,613
+[Speaker 2] And Put it back where
+
+31
+00:00:11,637 --> 00:00:12,137
+[Speaker 2] you found it
+
+32
+00:00:08,449 --> 00:00:09,473
+[Speaker 2] Oh I had that rule
+
+33
+00:00:09,556 --> 00:00:09,818
+[Speaker 2] too
+
+34
+00:00:10,780 --> 00:00:11,613
+[Speaker 2] And Put it back where
+
+35
+00:00:11,637 --> 00:00:12,137
+[Speaker 2] you found it
+
+36
+00:00:13,078 --> 00:00:14,066
+[Speaker 2] Like I'm some kind of
+
+37
+00:00:08,449 --> 00:00:09,473
+[Speaker 2] Oh I had that rule
+
+38
+00:00:09,556 --> 00:00:09,818
+[Speaker 2] too
+
+39
+00:00:10,780 --> 00:00:11,613
+[Speaker 2] And Put it back where
+
+40
+00:00:11,637 --> 00:00:12,137
+[Speaker 2] you found it
+
+41
+00:00:13,078 --> 00:00:14,066
+[Speaker 2] Like I'm some kind of
+
+42
+00:00:14,078 --> 00:00:14,982
+[Speaker 2] museum curator
+
+43
+00:00:16,058 --> 00:00:16,719
+[Speaker 1] Seriously
+
+44
+00:00:16,058 --> 00:00:16,719
+[Speaker 1] Seriously
+
+45
+00:00:17,714 --> 00:00:18,171
+[Speaker 1] But now
+
+46
+00:00:16,058 --> 00:00:16,719
+[Speaker 1] Seriously
+
+47
+00:00:17,714 --> 00:00:18,171
+[Speaker 1] But now
+
+48
+00:00:19,193 --> 00:00:21,056
+[Speaker 1] My roommate leaves cabinets open
+
+49
+00:00:16,058 --> 00:00:16,719
+[Speaker 1] Seriously
+
+50
+00:00:17,714 --> 00:00:18,171
+[Speaker 1] But now
+
+51
+00:00:19,193 --> 00:00:21,056
+[Speaker 1] My roommate leaves cabinets open
+
+52
+00:00:21,056 --> 00:00:21,885
+[Speaker 1] like we're living in a
+
+53
+00:00:16,058 --> 00:00:16,719
+[Speaker 1] Seriously
+
+54
+00:00:17,714 --> 00:00:18,171
+[Speaker 1] But now
+
+55
+00:00:19,193 --> 00:00:21,056
+[Speaker 1] My roommate leaves cabinets open
+
+56
+00:00:21,056 --> 00:00:21,885
+[Speaker 1] like we're living in a
+
+57
+00:00:21,885 --> 00:00:23,123
+[Speaker 1] chaotic clown college
+
+58
+00:00:16,058 --> 00:00:16,719
+[Speaker 1] Seriously
+
+59
+00:00:17,714 --> 00:00:18,171
+[Speaker 1] But now
+
+60
+00:00:19,193 --> 00:00:21,056
+[Speaker 1] My roommate leaves cabinets open
+
+61
+00:00:21,056 --> 00:00:21,885
+[Speaker 1] like we're living in a
+
+62
+00:00:21,885 --> 00:00:23,123
+[Speaker 1] chaotic clown college
+
+63
+00:00:24,073 --> 00:00:25,467
+[Speaker 1] And I'm finding spatulas in
+
+64
+00:00:16,058 --> 00:00:16,719
+[Speaker 1] Seriously
+
+65
+00:00:17,714 --> 00:00:18,171
+[Speaker 1] But now
+
+66
+00:00:19,193 --> 00:00:21,056
+[Speaker 1] My roommate leaves cabinets open
+
+67
+00:00:21,056 --> 00:00:21,885
+[Speaker 1] like we're living in a
+
+68
+00:00:21,885 --> 00:00:23,123
+[Speaker 1] chaotic clown college
+
+69
+00:00:24,073 --> 00:00:25,467
+[Speaker 1] And I'm finding spatulas in
+
+70
+00:00:25,467 --> 00:00:25,935
+[Speaker 1] the shower
+
+71
+00:00:26,977 --> 00:00:27,537
+[Speaker 2] Spatulas
+
+72
+00:00:26,977 --> 00:00:27,537
+[Speaker 2] Spatulas
+
+73
+00:00:28,487 --> 00:00:28,820
+[Speaker 2] Shower
+
+74
+00:00:26,977 --> 00:00:27,537
+[Speaker 2] Spatulas
+
+75
+00:00:28,487 --> 00:00:28,820
+[Speaker 2] Shower
+
+76
+00:00:29,725 --> 00:00:30,296
+[Speaker 2] Amateur hour
+
+77
+00:00:26,977 --> 00:00:27,537
+[Speaker 2] Spatulas
+
+78
+00:00:28,487 --> 00:00:28,820
+[Speaker 2] Shower
+
+79
+00:00:29,725 --> 00:00:30,296
+[Speaker 2] Amateur hour
+
+80
+00:00:31,260 --> 00:00:32,451
+[Speaker 2] My partner once left the
+
+81
+00:00:26,977 --> 00:00:27,537
+[Speaker 2] Spatulas
+
+82
+00:00:28,487 --> 00:00:28,820
+[Speaker 2] Shower
+
+83
+00:00:29,725 --> 00:00:30,296
+[Speaker 2] Amateur hour
+
+84
+00:00:31,260 --> 00:00:32,451
+[Speaker 2] My partner once left the
+
+85
+00:00:32,451 --> 00:00:33,296
+[Speaker 2] milk in the pantry
+
+86
+00:00:26,977 --> 00:00:27,537
+[Speaker 2] Spatulas
+
+87
+00:00:28,487 --> 00:00:28,820
+[Speaker 2] Shower
+
+88
+00:00:29,725 --> 00:00:30,296
+[Speaker 2] Amateur hour
+
+89
+00:00:31,260 --> 00:00:32,451
+[Speaker 2] My partner once left the
+
+90
+00:00:32,451 --> 00:00:33,296
+[Speaker 2] milk in the pantry
+
+91
+00:00:34,237 --> 00:00:34,653
+[Speaker 2] The MILK
+
+92
+00:00:35,690 --> 00:00:36,483
+[Speaker 1] Oh the horror
+
+93
+00:00:35,690 --> 00:00:36,483
+[Speaker 1] Oh the horror
+
+94
+00:00:37,418 --> 00:00:38,837
+[Speaker 1] It's like they're deliberately trying
+
+95
+00:00:35,690 --> 00:00:36,483
+[Speaker 1] Oh the horror
+
+96
+00:00:37,418 --> 00:00:38,837
+[Speaker 1] It's like they're deliberately trying
+
+97
+00:00:38,837 --> 00:00:40,147
+[Speaker 1] to summon the chaos gods
+
+98
+00:00:41,257 --> 00:00:41,793
+[Speaker 2] Exactly
+
+99
+00:00:41,257 --> 00:00:41,793
+[Speaker 2] Exactly
+
+100
+00:00:42,731 --> 00:00:43,636
+[Speaker 2] Now I understand
+
+101
+00:00:41,257 --> 00:00:41,793
+[Speaker 2] Exactly
+
+102
+00:00:42,731 --> 00:00:43,636
+[Speaker 2] Now I understand
+
+103
+00:00:44,564 --> 00:00:45,588
+[Speaker 2] My dad wasn't being a
+
+104
+00:00:41,257 --> 00:00:41,793
+[Speaker 2] Exactly
+
+105
+00:00:42,731 --> 00:00:43,636
+[Speaker 2] Now I understand
+
+106
+00:00:44,564 --> 00:00:45,588
+[Speaker 2] My dad wasn't being a
+
+107
+00:00:45,612 --> 00:00:46,279
+[Speaker 2] control freak
+
+108
+00:00:41,257 --> 00:00:41,793
+[Speaker 2] Exactly
+
+109
+00:00:42,731 --> 00:00:43,636
+[Speaker 2] Now I understand
+
+110
+00:00:44,564 --> 00:00:45,588
+[Speaker 2] My dad wasn't being a
+
+111
+00:00:45,612 --> 00:00:46,279
+[Speaker 2] control freak
+
+112
+00:00:47,219 --> 00:00:48,481
+[Speaker 2] He was preventing the apocalypse
+
+113
+00:00:41,257 --> 00:00:41,793
+[Speaker 2] Exactly
+
+114
+00:00:42,731 --> 00:00:43,636
+[Speaker 2] Now I understand
+
+115
+00:00:44,564 --> 00:00:45,588
+[Speaker 2] My dad wasn't being a
+
+116
+00:00:45,612 --> 00:00:46,279
+[Speaker 2] control freak
+
+117
+00:00:47,219 --> 00:00:48,481
+[Speaker 2] He was preventing the apocalypse
+
+118
+00:00:48,624 --> 00:00:49,636
+[Speaker 2] one cabinet door at a
+
+119
+00:00:41,257 --> 00:00:41,793
+[Speaker 2] Exactly
+
+120
+00:00:42,731 --> 00:00:43,636
+[Speaker 2] Now I understand
+
+121
+00:00:44,564 --> 00:00:45,588
+[Speaker 2] My dad wasn't being a
+
+122
+00:00:45,612 --> 00:00:46,279
+[Speaker 2] control freak
+
+123
+00:00:47,219 --> 00:00:48,481
+[Speaker 2] He was preventing the apocalypse
+
+124
+00:00:48,624 --> 00:00:49,636
+[Speaker 2] one cabinet door at a
+
+125
+00:00:49,636 --> 00:00:49,945
+[Speaker 2] time
+
+126
+00:00:51,026 --> 00:00:51,831
+[Speaker 1] He was a hero
+
+127
+00:00:51,026 --> 00:00:51,831
+[Speaker 1] He was a hero
+
+128
+00:00:52,803 --> 00:00:53,776
+[Speaker 1] Underappreciated
+
+129
+00:00:51,026 --> 00:00:51,831
+[Speaker 1] He was a hero
+
+130
+00:00:52,803 --> 00:00:53,776
+[Speaker 1] Underappreciated
+
+131
+00:00:54,702 --> 00:00:55,507
+[Speaker 1] We were fools
+
+132
+00:00:51,026 --> 00:00:51,831
+[Speaker 1] He was a hero
+
+133
+00:00:52,803 --> 00:00:53,776
+[Speaker 1] Underappreciated
+
+134
+00:00:54,702 --> 00:00:55,507
+[Speaker 1] We were fools
+
+135
+00:00:56,456 --> 00:00:58,115
+[Speaker 1] We didn’t understand the ancient
+
+136
+00:00:51,026 --> 00:00:51,831
+[Speaker 1] He was a hero
+
+137
+00:00:52,803 --> 00:00:53,776
+[Speaker 1] Underappreciated
+
+138
+00:00:54,702 --> 00:00:55,507
+[Speaker 1] We were fools
+
+139
+00:00:56,456 --> 00:00:58,115
+[Speaker 1] We didn’t understand the ancient
+
+140
+00:00:58,115 --> 00:00:58,572
+[Speaker 1] wisdom
+
+141
+00:00:59,569 --> 00:01:00,807
+[Speaker 2] Now if you'll excuse me
+
+142
+00:00:59,569 --> 00:01:00,807
+[Speaker 2] Now if you'll excuse me
+
+143
+00:01:00,986 --> 00:01:02,105
+[Speaker 2] I hear a cabinet calling
+
+144
+00:00:59,569 --> 00:01:00,807
+[Speaker 2] Now if you'll excuse me
+
+145
+00:01:00,986 --> 00:01:02,105
+[Speaker 2] I hear a cabinet calling
+
+146
+00:01:02,105 --> 00:01:02,510
+[Speaker 2] my name
+
+147
+00:00:59,569 --> 00:01:00,807
+[Speaker 2] Now if you'll excuse me
+
+148
+00:01:00,986 --> 00:01:02,105
+[Speaker 2] I hear a cabinet calling
+
+149
+00:01:02,105 --> 00:01:02,510
+[Speaker 2] my name
+
+150
+00:01:03,472 --> 00:01:04,602
+[Speaker 2] And probably a rogue cheese
+
+151
+00:00:59,569 --> 00:01:00,807
+[Speaker 2] Now if you'll excuse me
+
+152
+00:01:00,986 --> 00:01:02,105
+[Speaker 2] I hear a cabinet calling
+
+153
+00:01:02,105 --> 00:01:02,510
+[Speaker 2] my name
+
+154
+00:01:03,472 --> 00:01:04,602
+[Speaker 2] And probably a rogue cheese
+
+155
+00:01:04,614 --> 00:01:05,638
+[Speaker 2] grater in the bedroom
+
+156
+00:00:59,569 --> 00:01:00,807
+[Speaker 2] Now if you'll excuse me
+
+157
+00:01:00,986 --> 00:01:02,105
+[Speaker 2] I hear a cabinet calling
+
+158
+00:01:02,105 --> 00:01:02,510
+[Speaker 2] my name
+
+159
+00:01:03,472 --> 00:01:04,602
+[Speaker 2] And probably a rogue cheese
+
+160
+00:01:04,614 --> 00:01:05,638
+[Speaker 2] grater in the bedroom
+
+161
+00:01:06,602 --> 00:01:07,031
+[Speaker 2] Gotta go
 

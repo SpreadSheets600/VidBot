@@ -60,6 +60,10 @@ def generate_script():
                     "Only write ONE script, use the comment chain as inspiration, and keep it light and meme-worthy. "
                     "Add in parts of your own imagination if you feel the story is small, make it a big meme. "
                     "Just output the script narration only, no outlines, no visuals, no extra formatting."
+                    "As there will be to and fro between two speakers, give the output text file as:"
+                    "Speaker1: \n"
+                    "Speaker2: \n"
+                    
                 )
             ),
             contents=[
@@ -71,4 +75,4 @@ def generate_script():
         logger.error(f"Error Generating Script From Gemini : {e}")
 
     with open(get_data_file_path("script.txt"), "w+") as script_file:
-        script_file.write(response.text.replace("\n", ""))
+        script_file.write(response.text)#.replace("\n", ""))
