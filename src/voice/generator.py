@@ -23,8 +23,11 @@ def generate_voiceover():
             logger.error(f"Script File {script_path} Does Not Exist")
             return
 
-        with open(script_path, "r") as script_file:
+        with open(script_path, "r", encoding="utf-8-sig") as script_file:
             script_data = script_file.read()
+
+            script_data.replace("Speaker1:", "")
+            script_data.replace("Speaker2:", "")
 
         # Interact with the Gradio Client API to generate voiceover and subtitles
         try:
@@ -47,12 +50,25 @@ def generate_voiceover():
                 speaker2_voice="en-AU-WilliamNeural - en-AU (Male)",
                 speaker2_rate=5,
                 speaker2_pitch=0,
-                api_name="/predict_multi"
-        )
+                api_name="/predict_multi",
+            )
 
             # Extract Audio And Subtitles File Data
             audio_file = result[0]
             subtitle_file = result[1]
+
+            with open(subtitle_file, "r", encoding="utf-8-sig") as sub_file:
+                subtitles = sub_file.read()
+
+                subtitles = subtitles.replace("[Speaker1]", "")
+                subtitles = subtitles.replace("[Speaker2]", "")
+
+            with open(
+                get_data_file_path("subtitles.srt"), "w", encoding="utf-8"
+            ) as sub_file:
+                sub_file.write(subtitles)
+
+                
 
         except Exception as e:
             logger.error(f"Error Generating Voice Over : {e}")
@@ -81,7 +97,9 @@ def generate_voiceover():
             os.rename(subtitle_file, subtitle_dest)
 
         except Exception as e:
-            logger.error(f"Error Moving Files To The Current Location : {e}", exc_info=True)
+            logger.error(
+                f"Error Moving Files To The Current Location : {e}", exc_info=True
+            )
 
     except Exception as e:
         logger.error(f"Unexpected Error In Generating Voiceover : {e}", exc_info=True)
